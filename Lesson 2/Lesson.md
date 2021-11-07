@@ -1,7 +1,7 @@
  ## Github Copilot
  - AI that autocompletes
  - Tell it what to do with comments
- - Powered by OpenAI
+ - Powered by OpenAI's API
 
  ## Example
 
